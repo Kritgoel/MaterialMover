@@ -79,3 +79,7 @@ services/search/cache/bm25_index.pkl
 # ===== Build Outputs =====
 *.bundle.js
 *.bundle.css
+
+
+Volume_2_Part_2_Geolocation_Deep_Dive.md
+Volume_2_Part_1_Image_Pipeline_Deep_Dive.md

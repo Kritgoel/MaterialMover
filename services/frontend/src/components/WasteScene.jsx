@@ -19,8 +19,8 @@ const WasteScene = forwardRef(function WasteScene(props, ref) {
 
   return (
     <div ref={sceneRef} id="waste-scene">
-      <video ref={videoRef} id="waste-video" muted loop playsInline>
-        <source src="/waste-video.mp4" type="video/mp4" />
+      <video ref={videoRef} id="waste-video" autoPlay muted loop playsInline>
+        <source src="https://res.cloudinary.com/dhrfsbrmc/video/upload/v1770896141/waste-video_s119r7.mp4" type="video/mp4" />
       </video>
       <div className="waste-overlay">
         <div ref={contentRef} className="waste-content">
@@ -35,3 +35,4 @@ const WasteScene = forwardRef(function WasteScene(props, ref) {
 });
 
 export default WasteScene;
+

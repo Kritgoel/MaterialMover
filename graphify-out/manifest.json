@@ -1,0 +1,297 @@
+{
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/ecosystem.config.js": {
+    "mtime": 1770457567.0573342,
+    "ast_hash": "a4cb03c7eceb0cd10e1b1d63bf1b83f2",
+    "semantic_hash": "a4cb03c7eceb0cd10e1b1d63bf1b83f2"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/package.json": {
+    "mtime": 1775059814.2633476,
+    "ast_hash": "df0fe25aa82aa0ae3ee45a606ea088f9",
+    "semantic_hash": "df0fe25aa82aa0ae3ee45a606ea088f9"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/backend/api/index.js": {
+    "mtime": 1770834495.6973572,
+    "ast_hash": "fb5b5b1fde80ed95e5b35a9455191c66",
+    "semantic_hash": "fb5b5b1fde80ed95e5b35a9455191c66"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/backend/package.json": {
+    "mtime": 1770840550.0690722,
+    "ast_hash": "2195fa12e7c911e57c98bd8e47e13cc4",
+    "semantic_hash": "2195fa12e7c911e57c98bd8e47e13cc4"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/backend/scripts/check-image-status.js": {
+    "mtime": 1770487645.8712478,
+    "ast_hash": "3a195b31da529d35f6292741d4640a28",
+    "semantic_hash": "3a195b31da529d35f6292741d4640a28"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/backend/scripts/fix-remaining-images.js": {
+    "mtime": 1770495286.9046407,
+    "ast_hash": "64af33f88c9d19acd18699f9596a833f",
+    "semantic_hash": "64af33f88c9d19acd18699f9596a833f"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/backend/scripts/geocode-existing-products.js": {
+    "mtime": 1770500145.872158,
+    "ast_hash": "4270f22975eadd8fbd32f55f09e18472",
+    "semantic_hash": "4270f22975eadd8fbd32f55f09e18472"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/backend/scripts/populate-images.js": {
+    "mtime": 1770495509.2796419,
+    "ast_hash": "59fa50568d89f654a2a4b6084f5c78f2",
+    "semantic_hash": "59fa50568d89f654a2a4b6084f5c78f2"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/backend/scripts/preview-images.js": {
+    "mtime": 1770495511.0931573,
+    "ast_hash": "54b3522420623264b87142fe1c37bcad",
+    "semantic_hash": "54b3522420623264b87142fe1c37bcad"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/backend/server/db.js": {
+    "mtime": 1770447386.7301629,
+    "ast_hash": "a594c601225e5aa53f7633638c844704",
+    "semantic_hash": "a594c601225e5aa53f7633638c844704"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/backend/server/middleware/auth.js": {
+    "mtime": 1770448157.8917665,
+    "ast_hash": "5d42dc7403730cbfd56e890361ac759f",
+    "semantic_hash": "5d42dc7403730cbfd56e890361ac759f"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/backend/server/models/Products.js": {
+    "mtime": 1770470120.656993,
+    "ast_hash": "0290078d134fef631da49969efc61bfe",
+    "semantic_hash": "0290078d134fef631da49969efc61bfe"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/backend/server/models/User.js": {
+    "mtime": 1770460608.73617,
+    "ast_hash": "36edb3952754130b3b6c8df974623cfd",
+    "semantic_hash": "36edb3952754130b3b6c8df974623cfd"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/backend/server/routes/auth.js": {
+    "mtime": 1770460608.7361856,
+    "ast_hash": "b41c664403886a5fb10cc2788cec7256",
+    "semantic_hash": "b41c664403886a5fb10cc2788cec7256"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/backend/server/routes/products.js": {
+    "mtime": 1770500145.8727343,
+    "ast_hash": "3642028d5e297310455f5b409f4732a9",
+    "semantic_hash": "3642028d5e297310455f5b409f4732a9"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/backend/server/routes/upload.js": {
+    "mtime": 1770516906.7604406,
+    "ast_hash": "2d5d0dcb58a7077d3f7f35d7c64e3a1c",
+    "semantic_hash": "2d5d0dcb58a7077d3f7f35d7c64e3a1c"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/backend/server/services/mapboxService.js": {
+    "mtime": 1770500145.8734117,
+    "ast_hash": "1f851083a323109de42c9898c00f7a75",
+    "semantic_hash": "1f851083a323109de42c9898c00f7a75"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/frontend/package.json": {
+    "mtime": 1770500145.8753955,
+    "ast_hash": "273adb818b1434a76105f8858d47ce9b",
+    "semantic_hash": "273adb818b1434a76105f8858d47ce9b"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/frontend/src/App.jsx": {
+    "mtime": 1770500145.8770142,
+    "ast_hash": "1db845e991c08f900ebed9de63210406",
+    "semantic_hash": "1db845e991c08f900ebed9de63210406"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/frontend/src/components/Chatbot.jsx": {
+    "mtime": 1770500540.5134332,
+    "ast_hash": "89ce6e00e72ced740fc0d1512b361cbd",
+    "semantic_hash": "89ce6e00e72ced740fc0d1512b361cbd"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/frontend/src/components/Earth3D.jsx": {
+    "mtime": 1770504913.93673,
+    "ast_hash": "704bbc07d70a6d669f8547e749b78036",
+    "semantic_hash": "704bbc07d70a6d669f8547e749b78036"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/frontend/src/components/Footer.jsx": {
+    "mtime": 1770509481.985378,
+    "ast_hash": "2e424279b018a50030214247da7d25f6",
+    "semantic_hash": "2e424279b018a50030214247da7d25f6"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/frontend/src/components/Header.jsx": {
+    "mtime": 1770500145.8785727,
+    "ast_hash": "d0401b68da04f5745e87b363caa4d1c7",
+    "semantic_hash": "d0401b68da04f5745e87b363caa4d1c7"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/frontend/src/components/MapView.jsx": {
+    "mtime": 1770500145.8793638,
+    "ast_hash": "d8b95f0c3f022986e1e5a8fd1ac0ce3f",
+    "semantic_hash": "d8b95f0c3f022986e1e5a8fd1ac0ce3f"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/frontend/src/components/ReactiveStars.jsx": {
+    "mtime": 1770500145.8797894,
+    "ast_hash": "684264c7fe0ceb5866e117b8f73ff09a",
+    "semantic_hash": "684264c7fe0ceb5866e117b8f73ff09a"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/frontend/src/components/Toast.jsx": {
+    "mtime": 1770500145.880358,
+    "ast_hash": "354290bba73626a9da81e3a8f84dc96b",
+    "semantic_hash": "354290bba73626a9da81e3a8f84dc96b"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/frontend/src/components/WasteScene.jsx": {
+    "mtime": 1775233702.0232968,
+    "ast_hash": "06a7b296fc118eeca9f44c6df974a367",
+    "semantic_hash": "06a7b296fc118eeca9f44c6df974a367"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/frontend/src/main.jsx": {
+    "mtime": 1770500145.8814871,
+    "ast_hash": "466a0863627d0a1a565eb727a95664e0",
+    "semantic_hash": "466a0863627d0a1a565eb727a95664e0"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/frontend/src/pages/Admin.jsx": {
+    "mtime": 1770505811.892911,
+    "ast_hash": "5eddb9cba8b82232a702fba89d709c7e",
+    "semantic_hash": "5eddb9cba8b82232a702fba89d709c7e"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/frontend/src/pages/Home.jsx": {
+    "mtime": 1770507121.832025,
+    "ast_hash": "b6cc90e4cd67276379145ec5dfbc442d",
+    "semantic_hash": "b6cc90e4cd67276379145ec5dfbc442d"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/frontend/src/pages/Listings.jsx": {
+    "mtime": 1770509491.7090387,
+    "ast_hash": "8703f35b480e95e77a51519a60c00922",
+    "semantic_hash": "8703f35b480e95e77a51519a60c00922"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/frontend/src/pages/Login.jsx": {
+    "mtime": 1770506320.2069993,
+    "ast_hash": "c6c16acc32f39d3a9c264743b34b4b3f",
+    "semantic_hash": "c6c16acc32f39d3a9c264743b34b4b3f"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/frontend/src/pages/Seller.jsx": {
+    "mtime": 1770834495.8851647,
+    "ast_hash": "d1df6a3320cc15245e5e75a88c6301d0",
+    "semantic_hash": "d1df6a3320cc15245e5e75a88c6301d0"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/frontend/src/pages/Signup.jsx": {
+    "mtime": 1770506323.2727826,
+    "ast_hash": "2b0ea309b3ca85ae8092761b4937a7d3",
+    "semantic_hash": "2b0ea309b3ca85ae8092761b4937a7d3"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/frontend/src/utils/auth.js": {
+    "mtime": 1770500145.8894045,
+    "ast_hash": "8fe6a294727fd768a679f052a4db47ac",
+    "semantic_hash": "8fe6a294727fd768a679f052a4db47ac"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/frontend/vite.config.js": {
+    "mtime": 1770500540.5197113,
+    "ast_hash": "281f24dd61d290d136fbf8da81b56353",
+    "semantic_hash": "281f24dd61d290d136fbf8da81b56353"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/search/app/__init__.py": {
+    "mtime": 1770457567.0581174,
+    "ast_hash": "3cc109863cd234b7c2bb62ef64f547a2",
+    "semantic_hash": "3cc109863cd234b7c2bb62ef64f547a2"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/search/app/core/__init__.py": {
+    "mtime": 1770457567.0582466,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/search/app/core/config.py": {
+    "mtime": 1770500145.8911576,
+    "ast_hash": "a30a6f83626733614a5752835c9e08ab",
+    "semantic_hash": "a30a6f83626733614a5752835c9e08ab"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/search/app/core/database.py": {
+    "mtime": 1770500145.8918297,
+    "ast_hash": "7d07540370b5eeed8ba2a82c616165e7",
+    "semantic_hash": "7d07540370b5eeed8ba2a82c616165e7"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/search/app/main.py": {
+    "mtime": 1770500145.8927877,
+    "ast_hash": "265503f8bc728dba874511490a8a2dd6",
+    "semantic_hash": "265503f8bc728dba874511490a8a2dd6"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/search/app/models/__init__.py": {
+    "mtime": 1770457567.0591936,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/search/app/models/schemas.py": {
+    "mtime": 1770500145.8931825,
+    "ast_hash": "af8a45683dba9cd31db65b90562ebfec",
+    "semantic_hash": "af8a45683dba9cd31db65b90562ebfec"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/search/app/routers/__init__.py": {
+    "mtime": 1770500145.8937583,
+    "ast_hash": "68b329da9893e34099c7d8ad5cb9c940",
+    "semantic_hash": "68b329da9893e34099c7d8ad5cb9c940"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/search/app/routers/chat.py": {
+    "mtime": 1770500145.89435,
+    "ast_hash": "6b2c7142c18d511a14772e3ea2f10312",
+    "semantic_hash": "6b2c7142c18d511a14772e3ea2f10312"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/search/app/services/__init__.py": {
+    "mtime": 1770457567.0595503,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/search/app/services/gemini_chat.py": {
+    "mtime": 1770500145.8947208,
+    "ast_hash": "6293f00f9e7facae1aa0f6ef844a3c31",
+    "semantic_hash": "6293f00f9e7facae1aa0f6ef844a3c31"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/search/app/services/hybrid_search.py": {
+    "mtime": 1770457567.0598724,
+    "ast_hash": "b73e64a521d3431126a56de93410c674",
+    "semantic_hash": "b73e64a521d3431126a56de93410c674"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/search/app/services/keyword_search.py": {
+    "mtime": 1770457567.060227,
+    "ast_hash": "8874609015ae9160796c1c14959af7ae",
+    "semantic_hash": "8874609015ae9160796c1c14959af7ae"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/search/app/services/keyword_search_cli.py": {
+    "mtime": 1770457567.0604997,
+    "ast_hash": "e58415380c07a56e229380e8025cbef4",
+    "semantic_hash": "e58415380c07a56e229380e8025cbef4"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/search/app/services/search.py": {
+    "mtime": 1770457567.060736,
+    "ast_hash": "abfb3c7ef1ccfb3a175d88354fff587f",
+    "semantic_hash": "abfb3c7ef1ccfb3a175d88354fff587f"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/start-services.ps1": {
+    "mtime": 1770500145.918919,
+    "ast_hash": "2e5bb6f461718254de6ba3645fae432f",
+    "semantic_hash": "2e5bb6f461718254de6ba3645fae432f"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/start-services.sh": {
+    "mtime": 1770517068.4383368,
+    "ast_hash": "476016bd29534cac26dccf54bdbb7502",
+    "semantic_hash": "476016bd29534cac26dccf54bdbb7502"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/DOCUMENTATION.md": {
+    "mtime": 1770511187.098869,
+    "ast_hash": "eff4db33e50da7c406d7dd697bcafd2d",
+    "semantic_hash": "eff4db33e50da7c406d7dd697bcafd2d"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/README.md": {
+    "mtime": 1770511187.0991259,
+    "ast_hash": "6a009d91c594facdbf4a81b042924f4f",
+    "semantic_hash": "6a009d91c594facdbf4a81b042924f4f"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/backend/scripts/image-preview.html": {
+    "mtime": 1770488546.1717038,
+    "ast_hash": "04651c7eb4bfc736e710ab3504ee1a39",
+    "semantic_hash": "04651c7eb4bfc736e710ab3504ee1a39"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/frontend/index.html": {
+    "mtime": 1770500145.873832,
+    "ast_hash": "98d7a86f09a43b5a59757b0f095bb4a2",
+    "semantic_hash": "98d7a86f09a43b5a59757b0f095bb4a2"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/search/requirements.txt": {
+    "mtime": 1770836855.4992993,
+    "ast_hash": "e56e5ccb983b3879021e0e63c0160440",
+    "semantic_hash": "e56e5ccb983b3879021e0e63c0160440"
+  },
+  "/Users/anishmanchanda/Documents/GitHub/MaterialMover/services/frontend/public/vite.svg": {
+    "mtime": 1770500145.8764367,
+    "ast_hash": "8e3a10e157f75ada21ab742c022d5430",
+    "semantic_hash": "8e3a10e157f75ada21ab742c022d5430"
+  }
+}
